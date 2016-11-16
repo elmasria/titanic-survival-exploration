@@ -1,9 +1,14 @@
 # Titanic Survival Exploration
 
+## Project Overview
+
+Create decision functions that attempt to Accurately predict survival outcomes, for at least 80%, from the 1912 Titanic disaster based on each passenger's features, such as sex and age.
+
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+#### Software Requirements
 
+- [Python 2.7](https://www.python.org/download/releases/2.7/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
